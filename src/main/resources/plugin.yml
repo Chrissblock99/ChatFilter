@@ -1,0 +1,6 @@
+name: ChatFilter
+version: '${project.version}'
+main: me.chriss99.chatfilter.ChatFilter
+api-version: 1.17
+authors: [ Chriss99 ]
+description: filters bad words from chat and replaces the message with a random string
